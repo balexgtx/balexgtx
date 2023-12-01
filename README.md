@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate frontend developer from El Salvador</h3>
 
-- 🌱 I’m currently learning **Python, Django, React**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **balexgtx@gmail.com**
 
